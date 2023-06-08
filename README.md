@@ -14,5 +14,5 @@
 ### Look Around for Anomalies: Weakly-supervised Anomaly Detection via Context-Motion Relational Learning
 > CVPR 2023
 
-> [[CVPR paper link]](Look Around for Anomalies: Weakly-supervised Anomaly Detection via Context-Motion Relational Learning)
+> [[CVPR paper link]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.pdf)
 
