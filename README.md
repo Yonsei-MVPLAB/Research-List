@@ -57,14 +57,14 @@
  
 > Video Object Segmentation
 
-> [[Paper link]](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Treating_Motion_as_Option_To_Reduce_Motion_Dependency_in_Unsupervised_WACV_2023_paper.pdf)|| [[Code]](https://github.com/suhwan-cho/tmo)
+> [[Paper link]](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Treating_Motion_as_Option_To_Reduce_Motion_Dependency_in_Unsupervised_WACV_2023_paper.pdf) || [[Code]](https://github.com/suhwan-cho/tmo)
 
 ### Unsupervised Video Object Segmentation via Prototype Memory Network
 > WACV 2023
 
 > Video Object Segmentation
 
-> [[Paper link]](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Unsupervised_Video_Object_Segmentation_via_Prototype_Memory_Network_WACV_2023_paper.pdf)|| [[Code]](https://github.com/Hydragon516/PMN)
+> [[Paper link]](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Unsupervised_Video_Object_Segmentation_via_Prototype_Memory_Network_WACV_2023_paper.pdf) || [[Code]](https://github.com/Hydragon516/PMN)
 
 
 ## 2022
@@ -73,7 +73,7 @@
 
 > Video Object Segmentation
 
-> [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820434.pdf)|| [[Code]](https://github.com/suhwan-cho/TBD)
+> [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820434.pdf) || [[Code]](https://github.com/suhwan-cho/TBD)
 
 
 ### Expanded Adaptive Scaling Normalization for End to End Image Compression
@@ -81,7 +81,7 @@
 
 > Image Compression
 
-> [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770392.pdf))|| [[Code]](https://github.com/ChajinShin/EASN)
+> [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770392.pdf)) || [[Code]](https://github.com/ChajinShin/EASN)
 
 
 ### SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection
@@ -89,7 +89,7 @@
 
 > Salient Object Detection
 
-> [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890621.pdf)|| [[Code]](https://github.com/Hydragon516/SPSN)
+> [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890621.pdf) || [[Code]](https://github.com/Hydragon516/SPSN)
 
 
 ### Superpixel Group-Correlation Network for Co-Saliency Detection
@@ -142,7 +142,7 @@
 
 > Lane Detection
 
-> [[Paper link]](https://arxiv.org/pdf/2102.07037.pdf)|| [[Code]](https://github.com/Hydragon516/ESA-official)
+> [[Paper link]](https://arxiv.org/pdf/2102.07037.pdf) || [[Code]](https://github.com/Hydragon516/ESA-official)
 
 ### FastAno: Fast Anomaly Detection via Spatio-temporal Patch Transformation
 > WACV 2022
@@ -181,7 +181,7 @@
 
 > Data Augmentation, Point Cloud
 
-> [[Paper link]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)|| [[Supplementary link]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Lee_Regularization_Strategy_for_CVPR_2021_supplemental.pdf) || [[Code]](https://github.com/dogyoonlee/RSMix)
+> [[Paper link]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) || [[Supplementary link]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Lee_Regularization_Strategy_for_CVPR_2021_supplemental.pdf) || [[Code]](https://github.com/dogyoonlee/RSMix)
 
 ### A Heterogeneous Face Recognition via Part Adaptive and Relation Attention Module
 > ICIP 2021
@@ -195,7 +195,7 @@
 
 > Image Inpainting
 
-> [[Paper link]](https://arxiv.org/pdf/2102.01360.pdf)|| [[Code]](https://github.com/ChajinShin/AdaFill-Image_Inpainting)
+> [[Paper link]](https://arxiv.org/pdf/2102.01360.pdf) || [[Code]](https://github.com/ChajinShin/AdaFill-Image_Inpainting)
 
 ### SAM-Net: LiDAR Depth Inpainting for 3D Static Map Generation
 > TITS
