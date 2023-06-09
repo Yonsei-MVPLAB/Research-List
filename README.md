@@ -11,7 +11,7 @@
 ### Exploring Discontinuity for Video Frame Interpolation
 > CVPR 2023 **(Highlight)**
 
-> Frame Interpolation
+> Video Frame Interpolation
 
 > [[Paper link]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Exploring_Discontinuity_for_Video_Frame_Interpolation_CVPR_2023_paper.pdf) || [[Code]](https://github.com/pandatimo/Exploring-Discontinuity-for-VFI)
 
@@ -55,14 +55,14 @@
 ### Treating Motion as Option to Reduce Motion Dependency in Unsupervised Video Object Segmentation
 > WACV 2023
  
-> Unsupervised Video Segmentation
+> Video Object Segmentation
 
 > [[Paper link]](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Treating_Motion_as_Option_To_Reduce_Motion_Dependency_in_Unsupervised_WACV_2023_paper.pdf)|| [[Code]](https://github.com/suhwan-cho/tmo)
 
 ### Unsupervised Video Object Segmentation via Prototype Memory Network
 > WACV 2023
 
-> Unsupervised Video Segmentation
+> Video Object Segmentation
 
 > [[Paper link]](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Unsupervised_Video_Object_Segmentation_via_Prototype_Memory_Network_WACV_2023_paper.pdf)|| [[Code]](https://github.com/Hydragon516/PMN)
 
@@ -71,7 +71,7 @@
 ### Tackling Background Distraction in Video Object Segmentation
 > ECCV 2022
 
-> Unsupervised Video Segmentation
+> Video Object Segmentation
 
 > [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820434.pdf)|| [[Code]](https://github.com/suhwan-cho/TBD)
 
@@ -87,7 +87,7 @@
 ### SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection
 > ECCV 2022
 
-> Unsupervised Video Segmentation
+> Salient Object Detection
 
 > [[Paper link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890621.pdf)|| [[Code]](https://github.com/Hydragon516/SPSN)
 
@@ -95,7 +95,7 @@
 ### Superpixel Group-Correlation Network for Co-Saliency Detection
 > ICIP 2022
 
-> Saliency Detection
+> Salient Object Detection
 
 > [[Paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897408)
 
@@ -103,7 +103,7 @@
 ### Saliency Detection via Global Context Enhanced Feature Fusion and Edge Weighted Loss
 > ICIP 2022
 
-> Saliency Detection
+> Salient Object Detection
 
 > [[Paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9897797)
 
@@ -118,7 +118,7 @@
 ### Occluded Person Re-Identification Via Relational Adaptive Feature Correction Learning
 > ICASSP 2022
 
-> Multi-Object Tracking
+> Person Re-Identification
 
 > [[Paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746734)
 
@@ -126,7 +126,7 @@
 ### Pixel-Level Bijective Matching for Video Object Segmentation
 > WACV 2022
 
-> Unsupervised Video Segmentation
+> Video Object Segmentation
 
 > [[Paper link]](https://openaccess.thecvf.com/content/WACV2022/papers/Cho_Pixel-Level_Bijective_Matching_for_Video_Object_Segmentation_WACV_2022_paper.pdf) || [[Code]](https://github.com/suhwan-cho/BMVOS)
 
@@ -193,7 +193,7 @@
 ### TEST-TIME ADAPTATION FOR OUT-OF-DISTRIBUTED IMAGE INPAINTING
 > ICIP 2021
 
-> Face Recognition
+> Image Inpainting
 
 > [[Paper link]](https://arxiv.org/pdf/2102.01360.pdf)|| [[Code]](https://github.com/ChajinShin/AdaFill-Image_Inpainting)
 
