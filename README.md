@@ -28,7 +28,7 @@
 
 > Anomaly Detection
 
-> [[Paper link]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_DP-NeRF_Deblurred_Neural_Radiance_Field_With_Physical_Scene_Priors_CVPR_2023_paper.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096400)
+> [[Paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096400)
 
 ### Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection
 > ICASSP 2023
