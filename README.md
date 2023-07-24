@@ -4,7 +4,7 @@
 ### Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition
 > ICCV 2023
 
-> Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition
+> Skeleton Action Recognition
 
 > [[Paper link]](https://arxiv.org/pdf/2212.04761.pdf) || [[Code]](https://github.com/Jho-Yonsei/STC-Net)
 
