@@ -13,7 +13,7 @@
 
 > Skeleton Action Recognition
 
-> [[Paper link]] (https://arxiv.org/pdf/2208.10741.pdf) || [[Code]](https://github.com/Jho-Yonsei/HD-GCN)
+> [[Paper link]](https://arxiv.org/pdf/2208.10741.pdf) || [[Code]](https://github.com/Jho-Yonsei/HD-GCN)
 
 ### DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors 
 > CVPR 2023 
