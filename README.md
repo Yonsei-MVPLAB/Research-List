@@ -42,7 +42,7 @@
 
 > Anomaly Detection
 
-> [[Paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096400)
+> [[Paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096400) || [[Code]](https://github.com/donghyung87/FAPM_official)
 
 
 ### Two-stream Decoder Feature Normality Estimating Network for Industrial Anomaly Detection
