@@ -4,14 +4,14 @@
 ### Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition
 > ICCV 2023
 
-> Skeleton Action Recognition
+> Skeleton-Based Action Recognition
 
 > [[Paper link]](https://arxiv.org/pdf/2212.04761.pdf) || [[Code]](https://github.com/Jho-Yonsei/STC-Net)
 
 ### Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition
 > ICCV 2023
 
-> Skeleton Action Recognition
+> Skeleton-Based Action Recognition
 
 > [[Paper link]](https://arxiv.org/pdf/2208.10741.pdf) || [[Code]](https://github.com/Jho-Yonsei/HD-GCN)
 
